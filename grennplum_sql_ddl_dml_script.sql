@@ -40,7 +40,7 @@ CREATE READABLE EXTERNAL TABLE e_ilicheva.stock_market_data_ext (
     isin TEXT,
     qualified_investor TEXT
 )
-LOCATION ('pxf://moex_labs/eilicheva_stock_market_securities_20260604.parquet?PROFILE=hdfs:parquet&SERVER=default&HOST=172.17.1.74&PORT=5888')
+LOCATION ('pxf://moex_labs/eilicheva_stock_market_securities_20260604.parquet?PROFILE=hdfs:parquet&SERVER=default&HOST="IP"&PORT=xxxx')
 FORMAT 'CUSTOM' (FORMATTER='pxfwritable_import');
 --SELECT * FROM e_ilicheva.stock_market_data_ext LIMIT 5;
 

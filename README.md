@@ -11,3 +11,5 @@
 - [pxf](https://yandex.cloud/ru/docs/managed-greenplum/operations/external-tables?utm_referrer=about%3Ablank)
 - [copy](https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/6/greenplum-database/ref_guide-sql_commands-COPY.html)
 - [Loading Data with COPY](https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/6/greenplum-database/admin_guide-load-topics-g-loading-data-with-copy.html)
+
+Книга "Hadoop. Подробное руководство" Том Уайт, third edition

@@ -13,3 +13,4 @@
 - [Loading Data with COPY](https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/6/greenplum-database/admin_guide-load-topics-g-loading-data-with-copy.html)
 
 Книга "Hadoop. Подробное руководство" Том Уайт, third edition
+[Документация Hadoop](https://hadoop.apache.org)

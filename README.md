@@ -14,4 +14,5 @@
 
 Книга "Hadoop. Подробное руководство" Том Уайт, third edition
 
+
 [Документация Hadoop](https://hadoop.apache.org)
